@@ -1,0 +1,94 @@
+{
+  "animes": [
+    {
+      "title": "Attack on Titan",
+      "genre": "Action, Drama, Fantasy",
+      "studio": "Wit Studio",
+      "episodes": 59
+    },
+    {
+      "title": "Demon Slayer",
+      "genre": "Action, Adventure, Supernatural",
+      "studio": "Ufotable",
+      "episodes": 26
+    },
+    {
+      "title": "My Hero Academia",
+      "genre": "Action, Comedy, Superhero",
+      "studio": "Bones",
+      "episodes": 138
+    },
+    {
+      "title": "Death Note",
+      "genre": "Mystery, Thriller, Supernatural",
+      "studio": "Madhouse",
+      "episodes": 37
+    },
+    {
+      "title": "Naruto",
+      "genre": "Action, Adventure, Martial Arts",
+      "studio": "Pierrot",
+      "episodes": 220
+    },
+    {
+      "title": "One Piece",
+      "genre": "Action, Adventure, Fantasy",
+      "studio": "Toei Animation",
+      "episodes": 1071
+    },
+    {
+      "title": "Sword Art Online",
+      "genre": "Action, Adventure, Fantasy",
+      "studio": "A-1 Pictures",
+      "episodes": 96
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "genre": "Action, Supernatural, Dark Fantasy",
+      "studio": "MAPPA",
+      "episodes": 24
+    },
+    {
+      "title": "Tokyo Ghoul",
+      "genre": "Horror, Supernatural, Drama",
+      "studio": "Pierrot",
+      "episodes": 48
+    },
+    {
+      "title": "Hunter x Hunter",
+      "genre": "Action, Adventure, Fantasy",
+      "studio": "Madhouse",
+      "episodes": 148
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "genre": "Action, Adventure, Fantasy",
+      "studio": "Bones",
+      "episodes": 64
+    },
+    {
+      "title": "Steins;Gate",
+      "genre": "Sci-Fi, Thriller, Drama",
+      "studio": "White Fox",
+      "episodes": 24
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "genre": "Action, Drama, Mecha",
+      "studio": "Gainax",
+      "episodes": 26
+    },
+    {
+      "title": "Cowboy Bebop",
+      "genre": "Action, Adventure, Sci-Fi",
+      "studio": "Sunrise",
+      "episodes": 26
+    },
+    {
+      "title": "Spirited Away",
+      "genre": "Fantasy, Adventure, Drama",
+      "studio": "Studio Ghibli",
+      "episodes": 1
+    }
+  ]
+}

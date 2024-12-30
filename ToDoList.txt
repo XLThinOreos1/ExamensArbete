@@ -1,0 +1,9 @@
+To do list:
+
+[YES] Designa databas och datastruktur
+[] Implementera meny och grundläggande interaktion
+[] Lägg till filtreringsfunktioner
+[] Implementera filhantering för inläsning och export
+[] Lägg till sorteringsalgoritmer
+[] Testa och fixa eventuella buggar
+[] Lägg till extra funktioner och förbättra användarupplevelsen
